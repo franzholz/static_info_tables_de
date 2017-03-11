@@ -1,0 +1,54 @@
+2017-03-11  Franz Holzinger  <franz@ttproducts.de>
+    * ready for TYPO3 8.x
+
+2015-10-13 Daniel Minder <typo3@minder.de>
+	* Compatibility update for static_info_table 6.3.1
+
+2014-12-09 Daniel Minder <typo3@minder.de>
+	* Compatibility update for static_info_tables 6.2.0
+	* Requires TYPO3 6.2
+
+2014-10-09 Daniel Minder <typo3@minder.de>
+	* Territory 'Lateinamerika und Karibik' added
+	* Include all translations in searchFields
+
+2014-09-16 Daniel Minder <typo3@minder.de>
+	* Name for 'Turkish Lira' corrected
+	* Documentation added
+
+2014-05-29 Daniel Minder <typo3@minder.de>
+	* Version requirement for static_info_tables updated
+
+2014-02-17 Daniel Minder <typo3@minder.de>
+        * Removed deprecated parameter from addTCAcolumns call
+
+2014-01-27 Daniel Minder <typo3@minder.de>
+	* Moved to TYPO3 6.x based on static_info_tables templates
+	* Upgrade to changes of static_info_tables 6.0.7
+
+2014-01-25  Daniel Minder <typo3@minder.de>
+        * Upgrade to changes of static_info_tables 2.3.2
+        * Added several missing entries in Italy
+        * Translation of language "chinese", fixing bug #51053
+
+2013-03-14  Franz Holzinger  <franz@ttproducts.de>
+	* add a manual with the description where the UPDATE! function can be found
+
+2013-03-01  Daniel Minder <typo3@minder.de>
+	* Upgrade to changes of static_info_tables 2.3.0:
+	  added translations for 2 territories, 9 countries, 33 country zones,
+	  4 currencies and 2 languages and changed 1 currency
+	* Dependency setting will now always reflect the version of
+	  static_info_tables for which the translation is made
+
+2011-05-18  Franz Holzinger  <franz@ttproducts.de>
+	* replace 'Belarus' by 'Weißrussland'
+
+2009-05-30  Franz Holzinger  <franz@ttproducts.de>
+	* Todo: Das Split muss verbessert werden, damit ein ',' auch innerhalb eines Wertes vorkommen kann
+	* Löschen von static_taxes, wo es keine deutsche Übersetzung gegeben hat.
+	* neue Länder Serbien und Montenegro
+
+2006-12-19  Franz Holzinger  <kontakt@fholzinger.com>
+	* enable the function to load additional TCA to allow fields added from the language specific static_info_tables derivates
+	* Added a ChangeLog file
