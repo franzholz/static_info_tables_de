@@ -10,7 +10,6 @@ $EM_CONF[$_EXTKEY] = array(
 	'conflicts' => '',
 	'priority' => '',
 	'loadOrder' => '',
-	'TYPO3_version' => '6.2.0-8.99.99',
 	'PHP_version' => '',
 	'module' => '',
 	'state' => 'stable',
@@ -21,8 +20,17 @@ $EM_CONF[$_EXTKEY] = array(
 	'lockType' => '',
 	'author' => 'Franz Holzinger',
 	'author_email' => 'franz@ttproducts.de',
-	'author_company' => '',
+	'author_company' => 'jambage.com',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
+    'constraints' => array (
+        'depends' => array(
+            'typo3' => '6.1.0-8.99.99',
+            'static_info_tables' => '6.2.1-6.99.99',
+        ),
+        'conflicts' => array(
+        ),
+        'suggests' => array(
+        ),
+    ),
 );
-
