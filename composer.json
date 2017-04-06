@@ -1,23 +1,38 @@
 {
-  "name": "sjbr/static_info_tables_de",
+  "name": "sjbr/static-info-tables-de",
+  "type": "typo3-cms-extension",
   "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
   "version": "6.5.0",
-  "type": "typo3-cms-extension",
   "license": "GPL-2.0+",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.typo3.org"
+    }
+  ],
+  "keywords": [
+    "TYPO3 CMS",
+    "Static Info Tables"
+  ],
+  "support": {
+    "issues": "https://github.com/franzholz/static_info_tables_de/issues"
+  },
+  "homepage": "https://jambage.com",
   "authors": [
     {
       "name": "Franz Holzinger",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "http://jambage.com"
     }
   ],
   "replace": {
-    "sjbr/static_info_tables_de": "*"
+    "static_info_tables_de": "self.version",
+    "typo3-ter/static-info-tables-de": "self.version"
   },
   "require": {
     "typo3/cms-core": ">=6.2.0,<8.9.99",
-    "sjbr/static_info_tables": "^6.3.1"
-  }
-
+    "sjbr/static-info-tables": ">=6.4,<7.0"
+  },
   "autoload": {
     "psr-4": {
       "SJBR\\StaticInfoTables\\": "Classes/"
