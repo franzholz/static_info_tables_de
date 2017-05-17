@@ -1,3 +1,6 @@
+2017-05-17  Franz Holzinger  <franz@ttproducts.de>
+    * remove autoload psr-4 for SJBR\StaticInfoTables\ from composer.json
+
 2017-04-10  Franz Holzinger  <franz@ttproducts.de>
     * modifications of composer.json
 
