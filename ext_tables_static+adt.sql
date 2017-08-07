@@ -237,7 +237,7 @@ UPDATE static_countries SET cn_short_de='Sambia' WHERE cn_iso_2='ZM';
 UPDATE static_countries SET cn_short_de='Simbabwe' WHERE cn_iso_2='ZW';
 UPDATE static_countries SET cn_short_de='Palästina' WHERE cn_iso_2='PS';
 UPDATE static_countries SET cn_short_de='Serbien und Montenegro' WHERE cn_iso_2='CS';
-UPDATE static_countries SET cn_short_de='Alandinseln' WHERE cn_iso_2='AX';
+UPDATE static_countries SET cn_short_de='Ålandinseln' WHERE cn_iso_2='AX';
 UPDATE static_countries SET cn_short_de='Heard und McDonaldinseln' WHERE cn_iso_2='HM';
 UPDATE static_countries SET cn_short_de='Montenegro' WHERE cn_iso_2='ME';
 UPDATE static_countries SET cn_short_de='Serbien' WHERE cn_iso_2='RS';
