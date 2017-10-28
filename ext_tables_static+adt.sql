@@ -1108,6 +1108,8 @@ UPDATE static_languages SET lg_name_de='Tschechisch' WHERE lg_iso_2='CS' AND lg_
 UPDATE static_languages SET lg_name_de='Dänisch' WHERE lg_iso_2='DA' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Niederländisch' WHERE lg_iso_2='NL' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Englisch' WHERE lg_iso_2='EN' AND lg_country_iso_2='';
+UPDATE static_languages SET lg_name_de='Englisch (USA)' WHERE lg_iso_2='EN' AND lg_country_iso_2='US';
+UPDATE static_languages SET lg_name_de='Englisch (Großbritannien)' WHERE lg_iso_2='EN' AND lg_country_iso_2='GB';
 UPDATE static_languages SET lg_name_de='Esperanto' WHERE lg_iso_2='EO' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Estnisch' WHERE lg_iso_2='ET' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Färöisch' WHERE lg_iso_2='FO' AND lg_country_iso_2='';
@@ -1121,6 +1123,8 @@ UPDATE static_languages SET lg_name_de='Schottisch-Gälisch' WHERE lg_iso_2='GD'
 UPDATE static_languages SET lg_name_de='Manx' WHERE lg_iso_2='GV' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Georgisch' WHERE lg_iso_2='KA' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Deutsch' WHERE lg_iso_2='DE' AND lg_country_iso_2='';
+UPDATE static_languages SET lg_name_de='Deutsch (Österreich)' WHERE lg_iso_2='DE' AND lg_country_iso_2='AT';
+UPDATE static_languages SET lg_name_de='Deutsch (Schweiz)' WHERE lg_iso_2='DE' AND lg_country_iso_2='CH';
 UPDATE static_languages SET lg_name_de='Griechisch' WHERE lg_iso_2='EL' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Grönländisch' WHERE lg_iso_2='KL' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Guarani' WHERE lg_iso_2='GN' AND lg_country_iso_2='';
