@@ -32,7 +32,7 @@
   "require": {
     "php": ">=5.3.3",
     "typo3/cms-core": ">=6.1.0,<8.99.99",
-    "sjbr/static-info-tables": ">=6.4,<7.0"
+    "typo3-ter/static-info-tables": ">=6.4,<7.0"
   },
   "config": {
     "vendor-dir": ".Build/vendor",
