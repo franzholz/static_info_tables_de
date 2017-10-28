@@ -2,7 +2,6 @@
   "name": "sjbr/static-info-tables-de",
   "type": "typo3-cms-extension",
   "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-  "version": "6.5.1",
   "license": "GPL-2.0+",
   "repositories": [
     {
