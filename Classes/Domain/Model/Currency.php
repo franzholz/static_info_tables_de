@@ -25,61 +25,61 @@ namespace SJBR\StaticInfoTables\Domain\Model;
 *  This copyright notice MUST APPEAR in all copies of the script!
 ***************************************************************/
 /**
- * The Currency model
- *
- * @copyright Copyright belongs to the respective authors
- * @license http://www.gnu.org/licenses/gpl.html GNU General Public License, version 3 or later
- */
+* The Currency model
+*
+* @copyright Copyright belongs to the respective authors
+* @license http://www.gnu.org/licenses/gpl.html GNU General Public License, version 3 or later
+*/
 class Currency extends AbstractEntity {
-	/**
-	 * German name of the currency
-	 * @var string
-	 */
-	protected $nameDe = '';
+    /**
+    * German name of the currency
+    * @var string
+    */
+    protected $nameDe = '';
 
-	/**
-	 * German name of the currency subdivision unit
-	 * @var string
-	 */
-	protected $subdivisionNameDe = '';
+    /**
+    * German name of the currency subdivision unit
+    * @var string
+    */
+    protected $subdivisionNameDe = '';
 
-	/**
-	 * Sets the German name of the currency
-	 *
-	 * @param string $nameDe
-	 *
-	 * @return void
-	 */
-	public function setNameDe($nameDe) {
-		$this->nameDe = $nameDe;
-	}
+    /**
+    * Sets the German name of the currency
+    *
+    * @param string $nameDe
+    *
+    * @return void
+    */
+    public function setNameDe($nameDe) {
+        $this->nameDe = $nameDe;
+    }
 
-	/**
-	 * Gets the German name of the currency
-	 *
-	 * @return string
-	 */
-	public function getNameDe() {
-		return $this->nameDe;
-	}
+    /**
+    * Gets the German name of the currency
+    *
+    * @return string
+    */
+    public function getNameDe() {
+        return $this->nameDe;
+    }
 
-	/**
-	 * Sets the German name of the currency subdivision
-	 *
-	 * @param string $subdivisionNameDe
-	 *
-	 * @return void
-	 */
-	public function setSubdivisionNameDe($subdivisionNameDe) {
-		$this->subdivisionNameDe = $subdivisionNameDe;
-	}
+    /**
+    * Sets the German name of the currency subdivision
+    *
+    * @param string $subdivisionNameDe
+    *
+    * @return void
+    */
+    public function setSubdivisionNameDe($subdivisionNameDe) {
+        $this->subdivisionNameDe = $subdivisionNameDe;
+    }
 
-	/**
-	 * Gets the German name of the currency subdivision
-	 *
-	 * @return string
-	 */
-	public function getSubdivisionNameDe() {
-		return $this->subdivisionNameDe;
-	}
+    /**
+    * Gets the German name of the currency subdivision
+    *
+    * @return string
+    */
+    public function getSubdivisionNameDe() {
+        return $this->subdivisionNameDe;
+    }
 }
