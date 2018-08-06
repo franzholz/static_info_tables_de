@@ -25,7 +25,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'CGLcompliance_note' => '',
     'constraints' => array (
         'depends' => array(
-            'typo3' => '6.1.0-8.99.99',
+            'typo3' => '7.6.0-8.99.99',
             'static_info_tables' => '6.2.1-6.99.99',
         ),
         'conflicts' => array(

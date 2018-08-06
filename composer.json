@@ -1,5 +1,5 @@
 {
-  "name": "sjbr/static-info-tables-de",
+  "name": "jambagecom/static-info-tables-de",
   "type": "typo3-cms-extension",
   "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
   "license": "GPL-2.0+",
@@ -21,7 +21,7 @@
     {
       "name": "Franz Holzinger",
       "role": "Developer",
-      "homepage": "http://ttproducts.de"
+      "homepage": "https://ttproducts.de"
     }
   ],
   "replace": {
@@ -29,23 +29,13 @@
     "typo3-ter/static-info-tables-de": "self.version"
   },
   "require": {
-    "php": ">=5.3.3",
-    "typo3/cms-core": ">=6.1.0,<8.99.99",
-    "typo3-ter/static-info-tables": ">=6.4,<7.0"
-  },
-  "config": {
-    "vendor-dir": ".Build/vendor",
-    "bin-dir": ".Build/bin",
-    "preferred-install": {
-      "typo3/cms": "source",
-      "typo3/cms-core": "source",
-      "*": "dist"
-    }
+    "php": ">=5.6",
+    "typo3/cms": ">=7.6,<9.0",
+    "sjbr/static-info-tables": "^6.5"
   },
   "extra": {
     "typo3/cms": {
-      "cms-package-dir": "{$vendor-dir}/typo3/cms",
-      "web-dir": ".Build/Web"
+      "extension-key": "static_info_tables_de"
     }
   }
 }
