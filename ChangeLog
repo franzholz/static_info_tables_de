@@ -1,4 +1,5 @@
 2018-08-07  Franz Holzinger  <franz@ttproducts.de>
+    * bugfix #3: use typo3/cms-core in composer.json
     * use the $tablename variable for the TCA
 
 2018-08-06  Franz Holzinger  <franz@ttproducts.de>
