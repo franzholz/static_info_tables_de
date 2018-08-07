@@ -1,3 +1,6 @@
+2018-08-07  Franz Holzinger  <franz@ttproducts.de>
+    * use the $tablename variable for the TCA
+
 2018-08-06  Franz Holzinger  <franz@ttproducts.de>
     * adaptions to composer.json
 
