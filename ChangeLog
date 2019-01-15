@@ -1,3 +1,6 @@
+2019-01-15  André Schließer  <a.schliesser@zeroseven.de>
+    * compatibility for TYPO3 9.5
+
 2018-08-07  Franz Holzinger  <franz@ttproducts.de>
     * bugfix #3: use typo3/cms-core in composer.json
     * use the $tablename variable for the TCA
