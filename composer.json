@@ -29,9 +29,9 @@
     "typo3-ter/static-info-tables-de": "self.version"
   },
   "require": {
-    "php": ">=5.6",
-    "typo3/cms-core": ">=7.6.0 <9.0.0",
-    "sjbr/static-info-tables": "^6.5"
+    "php": "^7.0",
+    "typo3/cms-core": "^8.7.22 || ^9.5.2",
+    "sjbr/static-info-tables": "^6.7"
   },
   "extra": {
     "typo3/cms": {
