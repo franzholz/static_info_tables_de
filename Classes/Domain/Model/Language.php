@@ -41,7 +41,7 @@ class Language extends AbstractEntity {
     /**
     * Sets the German name of the language
     *
-    * @param string $nameGerman
+    * @param string $nameDe
     *
     * @return void
     */
