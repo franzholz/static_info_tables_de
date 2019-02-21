@@ -1,3 +1,6 @@
+2019-02-22  Franz Holzinger  <franz@ttproducts.de>
+    * CGL: replace tabs by spaces. Add a die command if not called by TYPO3.
+
 2019-01-15  André Schließer  <a.schliesser@zeroseven.de>
     * compatibility for TYPO3 9.5
 
