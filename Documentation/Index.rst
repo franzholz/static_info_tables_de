@@ -30,13 +30,13 @@ Static Info Tables (de)
 		translation pack
 
 	:Copyright:
-		2014
+		2019
 
 	:Author:
-		Daniel Minder
+		Franz Holzinger
 
 	:Email:
-		typo3@minder.de
+		franz@ttproducts.de
 
 	:License:
 		This document is published under the Open Content License

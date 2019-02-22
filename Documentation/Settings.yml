@@ -4,7 +4,7 @@
 
 ---
 conf.py:
-  copyright: 2014
+  copyright: 2019
   project: Static Info Tables (de)
   version: 6.0
   release: 6.0.1
@@ -12,7 +12,7 @@ conf.py:
   - - Index
     - static_info_tables_de.tex
     - Static Info Tables (de)
-    - Daniel Minder
+    - Franz Holzinger
     - manual
   latex_elements:
     papersize: a4paper
