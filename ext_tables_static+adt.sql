@@ -133,7 +133,7 @@ UPDATE static_countries SET cn_short_de='Monaco' WHERE cn_iso_2='MC';
 UPDATE static_countries SET cn_short_de='Republik Moldau' WHERE cn_iso_2='MD';
 UPDATE static_countries SET cn_short_de='Madagaskar' WHERE cn_iso_2='MG';
 UPDATE static_countries SET cn_short_de='Marschallinseln' WHERE cn_iso_2='MH';
-UPDATE static_countries SET cn_short_de='Mazedonien' WHERE cn_iso_2='MK';
+UPDATE static_countries SET cn_short_de='Nordmazedonien' WHERE cn_iso_2='MK';
 UPDATE static_countries SET cn_short_de='Mali' WHERE cn_iso_2='ML';
 UPDATE static_countries SET cn_short_de='Myanmar' WHERE cn_iso_2='MM';
 UPDATE static_countries SET cn_short_de='Mongolei' WHERE cn_iso_2='MN';

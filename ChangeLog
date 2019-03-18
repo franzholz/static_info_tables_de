@@ -1,3 +1,6 @@
+2019-03-18  Franz Holzinger  <franz@ttproducts.de>
+    * fix forge issue 87944: rename the former state Mazedonien into Nordmazedonien
+
 2019-02-22  Franz Holzinger  <franz@ttproducts.de>
     * CGL: replace tabs by spaces. Add a die command if not called by TYPO3.
 
