@@ -1267,7 +1267,7 @@ UPDATE static_languages SET lg_name_de='Nord-Samisch' WHERE lg_iso_2='SE' AND lg
 UPDATE static_languages SET lg_name_de='Tahitisch' WHERE lg_iso_2='TY' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Venda-Sprache' WHERE lg_iso_2='VE' AND lg_country_iso_2='';
 UPDATE static_languages SET lg_name_de='Wallonisch' WHERE lg_iso_2='WA' AND lg_country_iso_2='';
-UPDATE static_languages SET lg_name_de='Portugiesisch' WHERE lg_iso_2='PT' AND lg_country_iso_2='BR';
+UPDATE static_languages SET lg_name_de='Brasilianisches Portugiesisch' WHERE lg_iso_2='PT' AND lg_country_iso_2='BR';
 UPDATE static_languages SET lg_name_de='Chinesisch (vereinfacht)' WHERE lg_iso_2='ZH' AND lg_country_iso_2='CN';
 UPDATE static_languages SET lg_name_de='Kanadisches Französisch' WHERE lg_iso_2='FR' AND lg_country_iso_2='CA';
 UPDATE static_languages SET lg_name_de='Filipino' WHERE lg_iso_2='TL' AND lg_country_iso_2='PH';
