@@ -1,5 +1,7 @@
 2019-04-11  Franz Holzinger  <franz@ttproducts.de>
+    * maintencance release to set it to version 6.7.3
     * apply some modifications coming mainly from the latest TER version 6.4.1 by Daniel Minder
+    * fix pull request #6: Correct name of Brazilian Portuguese
 
 2019-03-18  Franz Holzinger  <franz@ttproducts.de>
     * fix forge issue 87944: rename the former state Mazedonien into Nordmazedonien
