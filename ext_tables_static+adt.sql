@@ -221,7 +221,7 @@ UPDATE static_countries SET cn_short_de='Amerikanisch-Ozeanien' WHERE cn_iso_2='
 UPDATE static_countries SET cn_short_de='Vereinigte Staaten von Amerika' WHERE cn_iso_2='US';
 UPDATE static_countries SET cn_short_de='Uruguay' WHERE cn_iso_2='UY';
 UPDATE static_countries SET cn_short_de='Usbekistan' WHERE cn_iso_2='UZ';
-UPDATE static_countries SET cn_short_de='Vatikanstaat' WHERE cn_iso_2='VA';
+UPDATE static_countries SET cn_short_de='Vatikanstadt' WHERE cn_iso_2='VA';
 UPDATE static_countries SET cn_short_de='St. Vinzent und die Grenadinen' WHERE cn_iso_2='VC';
 UPDATE static_countries SET cn_short_de='Venezuela' WHERE cn_iso_2='VE';
 UPDATE static_countries SET cn_short_de='Britische Jungferninseln' WHERE cn_iso_2='VG';
