@@ -250,6 +250,7 @@ UPDATE static_countries SET cn_short_de='Bonaire, Sint Eustatius und Saba' WHERE
 UPDATE static_countries SET cn_short_de='Curaçao' WHERE cn_iso_2='CW';
 UPDATE static_countries SET cn_short_de='Sint Maarten' WHERE cn_iso_2='SX';
 UPDATE static_countries SET cn_short_de='Südsudan' WHERE cn_iso_2='SS';
+UPDATE static_countries SET cn_short_de='Kosovo' WHERE cn_iso_2='XK';
 ## static_country_zones
 UPDATE static_country_zones SET zn_name_de='' WHERE zn_country_iso_2='US' AND zn_code='AL';
 UPDATE static_country_zones SET zn_name_de='' WHERE zn_country_iso_2='US' AND zn_code='AK';
