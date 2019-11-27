@@ -1,3 +1,7 @@
+2019-11-27  Franz Holzinger  <franz@ttproducts.de>
+    * compatibility with TYPO3 10 issue #9: Add the file Configuration/Extbase/Persistence/Classes.php.
+    * feature #7 and #8: Add Kosovo
+
 2019-04-11  Franz Holzinger  <franz@ttproducts.de>
     * maintencance release to set it to version 6.7.3
     * apply some modifications coming mainly from the latest TER version 6.4.1 by Daniel Minder
