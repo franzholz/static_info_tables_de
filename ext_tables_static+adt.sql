@@ -176,7 +176,7 @@ UPDATE static_countries SET cn_short_de='Portugal' WHERE cn_iso_2='PT';
 UPDATE static_countries SET cn_short_de='Palau' WHERE cn_iso_2='PW';
 UPDATE static_countries SET cn_short_de='Paraguay' WHERE cn_iso_2='PY';
 UPDATE static_countries SET cn_short_de='Katar' WHERE cn_iso_2='QA';
-UPDATE static_countries SET cn_short_de='Reunion' WHERE cn_iso_2='RE';
+UPDATE static_countries SET cn_short_de='Réunion' WHERE cn_iso_2='RE';
 UPDATE static_countries SET cn_short_de='Rumänien' WHERE cn_iso_2='RO';
 UPDATE static_countries SET cn_short_de='Russische Föderation' WHERE cn_iso_2='RU';
 UPDATE static_countries SET cn_short_de='Ruanda' WHERE cn_iso_2='RW';
