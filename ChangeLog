@@ -1,3 +1,6 @@
+2020-03-12  Franz Holzinger  <franz@ttproducts.de>
+    * Rename Reunion to Réunion
+
 2019-11-27  Franz Holzinger  <franz@ttproducts.de>
     * compatibility with TYPO3 10 issue #9: Add the file Configuration/Extbase/Persistence/Classes.php.
     * feature #7 and #8: Add Kosovo
