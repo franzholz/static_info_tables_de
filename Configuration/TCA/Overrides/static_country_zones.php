@@ -14,4 +14,4 @@ call_user_func(function($extKey, $table) {
         // Add as search field
         $GLOBALS['TCA'][$table]['ctrl']['searchFields'] .= ',' . $destField;
     }
-}, 'static_info_tables_de', 'static_country_zones');
+}, 'static_info_tables_de', basename(__FILE__, '.php'));
