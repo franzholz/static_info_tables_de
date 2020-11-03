@@ -30,7 +30,7 @@
   },
   "require": {
     "php": "^7.0",
-    "typo3/cms-core": "^8.7 || ^9.5 || ^10.0",
+    "typo3/cms-core": "^8.7 || ^9.5 || ^10.4",
     "sjbr/static-info-tables": "^6.7"
   },
   "extra": {
