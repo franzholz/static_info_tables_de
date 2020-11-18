@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = Array (
     'author_company' => 'jambage.com',
     'constraints' => array (
         'depends' => array(
-            'typo3' => '8.7.0-10.99.99',
+            'typo3' => '8.7.0-10.4.99',
             'static_info_tables' => '6.7.3-6.99.99',
         ),
         'conflicts' => array(
