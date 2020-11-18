@@ -1,4 +1,8 @@
 
+2020-11-18  Sebastian Iffland 
+    * Important bugfix to the former version 10.0 support.
+    * Simplification of the TCA files.
+
 2020-06-20  Franz Holzinger  <franz@ttproducts.de>
     * fix issue #11: Translate Swiss Kantons
  

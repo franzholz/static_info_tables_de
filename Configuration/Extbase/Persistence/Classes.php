@@ -39,7 +39,7 @@ return [
             'shortNameDe' => [
                 'fieldName' => 'cn_short_de',
             ],
-        ], 
+        ],
     ],
     \SJBR\StaticInfoTables\Domain\Model\CountryZone::class => [
         'tableName' => 'static_country_zones',
@@ -64,7 +64,7 @@ return [
         'tableName' => 'static_languages',
         'properties' => [
             'nameDe' => [
-                'lg_name_de' => 'cu_name_de',
+                'fieldName' => 'lg_name_de',
             ],
         ],
     ],
@@ -72,7 +72,7 @@ return [
         'tableName' => 'static_territories',
         'properties' => [
             'nameDe' => [
-                'tr_name_de' => 'cu_name_de',
+                'fieldName' => 'tr_name_de',
             ],
         ],
     ],
