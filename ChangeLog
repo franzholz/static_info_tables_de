@@ -1,3 +1,5 @@
+2020-11-24  Sebastian Iffland 
+    * fix issue #13: Undo part of latest pullrequest #12 to the former version 10.0 support.
 
 2020-11-18  Sebastian Iffland 
     * fix issue #9: Important bugfix to the former version 10.0 support.
