@@ -1,3 +1,6 @@
+2021-07-13  Franz Holzinger  <franz@ttproducts.de>
+    * Use the domain jambagecom in the composer.json.
+
 2020-11-24  Franz Holzinger  <franz@ttproducts.de>
     * fix issue #13: Undo part of latest pullrequest #12 to the former version 10.0 support.
 
