@@ -1,6 +1,6 @@
 <?php
 
-$EM_CONF[$_EXTKEY] = Array (
+$EM_CONF['static_info_tables_de'] = array(
     'title' => 'Static Info Tables (de)',
     'description' => 'German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.',
     'category' => 'misc',
