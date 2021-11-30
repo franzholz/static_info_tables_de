@@ -1,16 +1,19 @@
+2021-11-30  Franz Holzinger  <franz@ttproducts.de>
+    * compatibility with TYPO3 11 issue #18: No other modifications.
+
 2021-07-13  Franz Holzinger  <franz@ttproducts.de>
     * Use the domain jambagecom in the composer.json.
 
 2020-11-24  Franz Holzinger  <franz@ttproducts.de>
     * fix issue #13: Undo part of latest pullrequest #12 to the former version 10.0 support.
 
-2020-11-18  Sebastian Iffland 
+2020-11-18  Sebastian Iffland
     * fix issue #9: Important bugfix to the former version 10.0 support.
     * Simplification of the TCA files.
 
 2020-06-20  Franz Holzinger  <franz@ttproducts.de>
     * fix issue #11: Translate Swiss Kantons
- 
+
 2020-03-12  Franz Holzinger  <franz@ttproducts.de>
     * Rename Reunion to Réunion
 
