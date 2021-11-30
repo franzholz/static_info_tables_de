@@ -32,7 +32,7 @@ UPDATE static_countries SET cn_short_de='Bahamas' WHERE cn_iso_2='BS';
 UPDATE static_countries SET cn_short_de='Bhutan' WHERE cn_iso_2='BT';
 UPDATE static_countries SET cn_short_de='Bouvetinsel' WHERE cn_iso_2='BV';
 UPDATE static_countries SET cn_short_de='Botsuana' WHERE cn_iso_2='BW';
-UPDATE static_countries SET cn_short_de='Weißrussland' WHERE cn_iso_2='BY';
+UPDATE static_countries SET cn_short_de='Belarus' WHERE cn_iso_2='BY';
 UPDATE static_countries SET cn_short_de='Belize' WHERE cn_iso_2='BZ';
 UPDATE static_countries SET cn_short_de='Kanada' WHERE cn_iso_2='CA';
 UPDATE static_countries SET cn_short_de='Kokosinseln (Keeling)' WHERE cn_iso_2='CC';
