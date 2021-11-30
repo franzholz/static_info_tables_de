@@ -28,9 +28,9 @@
     "jambagecom/static-info-tables-de": "self.version"
   },
   "require": {
-    "php": "^7.2",
-    "typo3/cms-core": "^8.7 || ^9.5 || ^10.4",
-    "sjbr/static-info-tables": "^6.7"
+    "php": "^7.3",
+    "typo3/cms-core": "^8.7 || ^9.5 || ^10.4 || ^11.5",
+    "sjbr/static-info-tables": "^6.7 || ^11.5"
   },
   "extra": {
     "typo3/cms": {
