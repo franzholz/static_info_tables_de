@@ -1,3 +1,6 @@
+2022-01-11  Franz Holzinger  <franz@ttproducts.de>
+    * compatibility with PHP 8: Remove the check for a PHP version.
+
 2021-11-30  Wolfgang Baro  <wolfgang.baro@wiminnco.com>
 	  * Rename Weißrussland to Belarus
 
