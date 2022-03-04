@@ -1,8 +1,8 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Static Info Tables (de]',
-    'description' => 'German (de] language pack for the Static Info Tables providing localized names for countries, currencies and so on.',
+    'title' => 'Static Info Tables (de)',
+    'description' => 'German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.',
     'category' => 'misc',
     'version' => '6.7.12',
     'state' => 'stable',
