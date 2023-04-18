@@ -28,9 +28,9 @@
     "typo3-ter/static-info-tables-de": "self.version"
   },
   "require": {
-    "typo3/cms-core": "^10.4 || ^11.5",
-    "sjbr/static-info-tables": "^6.7 || ^11.5",
-    "jambagecom/addons-em": "^0.5"
+    "typo3/cms-core": "^10.4 || ^11.5 || ^12.3",
+    "sjbr/static-info-tables": "^6.9 || ^11.5 || ^12.3",
+    "jambagecom/addons-em": "^0.6"
   },
   "extra": {
     "typo3/cms": {
