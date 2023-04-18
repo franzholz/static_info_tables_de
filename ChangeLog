@@ -1,5 +1,8 @@
+2023-04-18  Franz Holzinger  <franz@ttproducts.de>
+    * compatibility with TYPO3 12
+
 2022-01-25  Franz Holzinger  <franz@ttproducts.de>
-    * bugfix issue #19: compatibility with TYPO3 10: Readd needed file class.ext_update.php
+    * bugfix issue #19: compatibility with TYPO3 10: Read needed file class.ext_update.php
 
 2022-01-20  Franz Holzinger  <franz@ttproducts.de>
     * compatibility with TYPO3 10: Remove file class.ext_update.php

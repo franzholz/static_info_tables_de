@@ -1,12 +1,12 @@
 <?php
-defined('TYPO3_MODE') || die();
+defined('TYPO3') || die();
 
 call_user_func(function($extensionKey, $table) {
-    $additionalFields = array(
+    $additionalFields = [
         'cn_short_en' => 'cn_short_de'
-    );
+    ];
     foreach ($additionalFields as $sourceField => $destField) {
-        $additionalColumns = array();
+        $additionalColumns = [];
         $additionalColumns[$destField] = $GLOBALS['TCA'][$table]['columns'][$sourceField];
         $additionalColumns[$destField]['label'] = 'LLL:EXT:' . $extensionKey . '/Resources/Private/Language/locallang_db.xlf:static_countries_item.' . $destField;
         \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns($table, $additionalColumns);
