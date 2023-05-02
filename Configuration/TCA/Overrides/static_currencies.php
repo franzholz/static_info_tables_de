@@ -1,7 +1,8 @@
 <?php
 defined('TYPO3') || die();
 
-call_user_func(function($extensionKey, $table) {
+call_user_func(function($extensionKey, $table)
+{
     $additionalFields = [
         'cu_name_en' => 'cu_name_de',
         'cu_sub_name_en' => 'cu_sub_name_de'

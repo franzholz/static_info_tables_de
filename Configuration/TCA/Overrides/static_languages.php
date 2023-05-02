@@ -1,7 +1,8 @@
 <?php
 defined('TYPO3') || die();
 
-call_user_func(function($extensionKey, $table) {
+call_user_func(function($extensionKey, $table)
+{
     $additionalFields = [
         'lg_name_en' => 'lg_name_de'
     ];

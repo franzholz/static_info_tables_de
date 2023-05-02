@@ -1,7 +1,8 @@
 <?php
 defined('TYPO3') || die();
 
-call_user_func(function($extensionKey, $table) {
+call_user_func(function($extensionKey, $table)
+{
     $additionalFields = [
         'zn_name_en' => 'zn_name_de'
     ];

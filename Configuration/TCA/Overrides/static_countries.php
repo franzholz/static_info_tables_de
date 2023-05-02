@@ -1,7 +1,8 @@
 <?php
 defined('TYPO3') || die();
 
-call_user_func(function($extensionKey, $table) {
+call_user_func(function($extensionKey, $table)
+{
     $additionalFields = [
         'cn_short_en' => 'cn_short_de'
     ];
