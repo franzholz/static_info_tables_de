@@ -30,7 +30,7 @@
   "require": {
     "typo3/cms-core": "^10.4 || ^11.5 || ^12.3",
     "sjbr/static-info-tables": "^6.9 || ^11.5 || ^12.3",
-    "jambagecom/addons-em": "^0.6"
+    "jambagecom/addons-em": "^0.8"
   },
   "extra": {
     "typo3/cms": {
