@@ -1,3 +1,6 @@
+2023-09-06  Franz Holzinger  <franz@ttproducts.de>
+    * compatibility with TYPO3 11 and 12 only
+
 2023-05-03  Franz Holzinger  <franz@ttproducts.de>
     * despite of Breaking no. 87623:
       readd TypoScript/Extbase/setup.txt because static_info_tables static_info_tables 6.9.6 uses the method TYPO3\CMS\Extbase\Configuration\ConfigurationManager::getConfiguration for mapping.
