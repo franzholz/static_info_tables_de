@@ -3,12 +3,6 @@
   "type": "typo3-cms-extension",
   "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
   "license": "GPL-2.0-or-later",
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.typo3.org"
-    }
-  ],
   "keywords": [
     "TYPO3 CMS",
     "Static Info Tables"
