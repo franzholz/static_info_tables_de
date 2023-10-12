@@ -3,7 +3,7 @@
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.
 
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
 
 Installation
@@ -22,7 +22,7 @@ The update script can be run manually from the extension manager using the appro
 
 The update script of "Static Info Tables (de)" only imports the German translations. When running the update script of "Static Info Tables", the basic data and all language packs are imported. Thus, when the "Static Info Tables" was updated it is sufficient to call its update script only.
 
-.. figure:: ../Images/ExtensionManager.png
+.. figure:: /Images/ExtensionManager.png
 	:width: 700px
 	:alt: Extension Manager view
 
