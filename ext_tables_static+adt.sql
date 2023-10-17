@@ -72,7 +72,7 @@ UPDATE static_countries SET cn_short_de='Mikronesien' WHERE cn_iso_2='FM';
 UPDATE static_countries SET cn_short_de='Färöer' WHERE cn_iso_2='FO';
 UPDATE static_countries SET cn_short_de='Frankreich' WHERE cn_iso_2='FR';
 UPDATE static_countries SET cn_short_de='Gabun' WHERE cn_iso_2='GA';
-UPDATE static_countries SET cn_short_de='Großbritannien' WHERE cn_iso_2='GB';
+UPDATE static_countries SET cn_short_de='Vereinigtes Königreich' WHERE cn_iso_2='GB';
 UPDATE static_countries SET cn_short_de='Grenada' WHERE cn_iso_2='GD';
 UPDATE static_countries SET cn_short_de='Georgien' WHERE cn_iso_2='GE';
 UPDATE static_countries SET cn_short_de='Französisch-Guayana' WHERE cn_iso_2='GF';
