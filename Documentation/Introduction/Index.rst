@@ -9,7 +9,7 @@
 What does it do?
 ================
 
-This extension provides German translations for the country, country subdivision, currency, language, and territory records of static_info_tables. For this purpose, it adds one or two fields to those tables and fills them with German data, if available.
+This extension provides German translations for the country, country subdivision, currency, language and territory records of static_info_tables. For this purpose, it adds one or two fields to those tables and fills them with German data, if available.
 
 .. figure:: /Images/RecordView.png
 	:width: 700px
