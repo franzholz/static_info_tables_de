@@ -20,7 +20,7 @@ Update script
 
 The update script can be run manually from the Extension Manager using the appropriate icon in the Actions column (see screenshot).
 
-The update script of "Static Info Tables (de)" only imports the German translations. When running the update script of "Static Info Tables", the basic data and all language packs are imported. 
+The update script of "Static Info Tables (de)" only imports the German translations. When running the update script of "Static Info Tables", the basic data and all language packs are imported.
 Thus, when the "Static Info Tables" was updated it is sufficient to call the German translation update script only once.
 
 .. figure:: /Images/ExtensionManager.png
@@ -29,4 +29,4 @@ Thus, when the "Static Info Tables" was updated it is sufficient to call the Ger
 
 	Extension Manager with static_info_tables and static_info_tables_de
 
-	In the actions column, the first icon of "Static Info Tables" will show its configuration options (not available for "Static Infos Tables (de)"). The second icon will run the update script.
+	In the actions column, the first icon of "Static Info Tables" will show its configuration options (not available for "Static Info Tables (de)"). The second icon will run the update script.
