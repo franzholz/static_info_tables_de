@@ -1,3 +1,6 @@
+2025-05-22  Franz Holzinger  <franz@ttproducts.de>
+    * remove deprecated TypoScript/Extbase/setup.txt
+    * compatibility with TYPO3 12 and 13 only
 
 2024-10-29  Franz Holzinger  <franz@ttproducts.de>
     * add compatibility with TYPO3 13
