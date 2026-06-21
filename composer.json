@@ -22,13 +22,17 @@
     "typo3-ter/static-info-tables-de": "self.version"
   },
   "require": {
-    "typo3/cms-core": "^12 || ^13",
-    "sjbr/static-info-tables": "^12 || ^13",
+    "typo3/cms-core": "^12 || ^13 || ^14",
+    "sjbr/static-info-tables": "^12 || ^13 || ^14",
     "jambagecom/addons-em": "^0.9"
   },
   "extra": {
     "typo3/cms": {
-      "extension-key": "static_info_tables_de"
+      "extension-key": "static_info_tables_de",
+      "version": "12.4.1",
+      "Package": {
+        "providesPackages": {}
+      }
     }
   }
 }
