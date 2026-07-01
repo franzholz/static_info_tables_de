@@ -1,7 +1,7 @@
 {
   "name": "jambagecom/static-info-tables-de",
   "type": "typo3-cms-extension",
-  "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
+  "description": "Static Info Tables (de) - German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
   "license": "GPL-2.0-or-later",
   "keywords": [
     "TYPO3 CMS",
@@ -24,12 +24,12 @@
   "require": {
     "typo3/cms-core": "^12 || ^13 || ^14",
     "sjbr/static-info-tables": "^12 || ^13 || ^14",
-    "jambagecom/addons-em": "^0.9"
+    "jambagecom/addons-em": "^0.9 || ^0.10 || ^0.11"
   },
   "extra": {
     "typo3/cms": {
       "extension-key": "static_info_tables_de",
-      "version": "12.4.1",
+      "version": "12.4.2",
       "Package": {
         "providesPackages": {}
       }
