@@ -29,7 +29,7 @@
   "extra": {
     "typo3/cms": {
       "extension-key": "static_info_tables_de",
-      "version": "12.4.2",
+      "version": "12.4.3",
       "Package": {
         "providesPackages": {}
       }

@@ -1,6 +1,9 @@
 <?php
 defined('TYPO3') || die('Access denied.');
 
+use TYPO3\CMS\Core\Information\Typo3Version;
+use TYPO3\CMS\Core\Utility\GeneralUtility;
+
 call_user_func(function($extensionKey, $table)
 {
     $additionalFields = [
@@ -12,7 +15,11 @@ call_user_func(function($extensionKey, $table)
         $additionalColumns[$destField]['label'] = 'LLL:EXT:' . $extensionKey . '/Resources/Private/Language/locallang_db.xlf:static_languages_item.' . $destField;
         \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns($table, $additionalColumns);
         \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes($table, $destField, '', 'after:' . $sourceField);
-        // Add as search field
-        $GLOBALS['TCA'][$table]['ctrl']['searchFields'] .= ',' . $destField;
+        $typo3Version = GeneralUtility::makeInstance(Typo3Version::class);
+
+        if ($typo3Version->getMajorVersion() < 14) {
+            // Add as search field
+            $GLOBALS['TCA'][$table]['ctrl']['searchFields'] .= ',' . $destField;
+        }
     }
 }, 'static_info_tables_de', basename(__FILE__, '.php'));
